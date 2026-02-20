@@ -36,7 +36,7 @@ Depois que apaga, só recupera se tiver backup local.
 8. Clique em <b>I understand the consequences, delete this repository</b> 
 Pronto. Ele será removido. 
 
-<b>Dica Importante Antes de Excluir,/>
+<b>Dica Importante Antes de Excluir,</>
  
 Se você criou errado só o nome, talvez seja melhor: 
 Renomear em vez de excluir 
